@@ -5,10 +5,6 @@ package com.timurka.boot.restapp.models;
 
 import javax.persistence.*;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
-import org.springframework.data.annotation.Id;
-
 import java.util.List;
 
 @Entity
