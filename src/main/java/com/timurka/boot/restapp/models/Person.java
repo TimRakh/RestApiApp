@@ -3,7 +3,7 @@ package com.timurka.boot.restapp.models;
 
 
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 import java.util.List;
 
