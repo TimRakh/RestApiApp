@@ -1,6 +1,7 @@
 HELP.md
 hs_err_pid5296.log
 hs_err_pid12964.log
+.gitignore
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
